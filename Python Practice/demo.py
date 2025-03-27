@@ -1,3 +1,8 @@
+
+import math
+n = int(math.log10(1852852) + 1 )
+print(n)
+
 import unittest
 
 def sum(a, b):
